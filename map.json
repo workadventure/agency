@@ -236,24 +236,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"default",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/app.tryeraser.com\/workspace\/ExSd8Z4wPsaqMMgTN4VU?origin=share"
+                         "value":"{{{ IdeasPressure }}}"
                         }, 
                         {
-                         "name":"label",
+                         "name":"openWebsitePolicy",
                          "type":"string",
-                         "value":"Configure website in the room IdeasPressure"
+                         "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         }, 
                         {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
-                         "value":"editor"
+                         "value":"onicon"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -269,24 +264,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"default",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/app.tryeraser.com\/workspace\/ExSd8Z4wPsaqMMgTN4VU?origin=share"
+                         "value":"{{{ FilingCabinet }}}"
                         }, 
                         {
-                         "name":"label",
+                         "name":"openWebsitePolicy",
                          "type":"string",
-                         "value":"Configure website in the room FilingCabinet"
+                         "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         }, 
                         {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
-                         "value":"editor"
+                         "value":"onicon"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -302,24 +292,19 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"default",
+                         "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/app.tryeraser.com\/workspace\/ExSd8Z4wPsaqMMgTN4VU?origin=share"
+                         "value":"{{{ LocalLandmarks }}}"
                         }, 
                         {
-                         "name":"label",
+                         "name":"openWebsitePolicy",
                          "type":"string",
-                         "value":"Configure website in the room LocalLandmarks"
+                         "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         }, 
                         {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
-                         "value":"editor"
+                         "value":"onicon"
                         }],
                  "type":"tilelayer",
                  "visible":true,
